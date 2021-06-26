@@ -4,31 +4,41 @@
  
  <h2 align="center">My GitHub Stats</h2>
 </p>
-<p align="center">
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FitwebMJ&count_bg=%23762B75&title_bg=%236083F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)]
-  (https://hits.seeyoufarm.com)
-</p>
-<p align="center">
-  <h2 align="center">Tech Stack</h2>
-  <img src="https://img.shields.io/badge/Python-6083F3?style=for-the-badge&logo=Python&logoColor=white">&nbsp 
-  <img src="https://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white"/></a>
-</p>
-<div align=center>
-![itwebMJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=itwebMJ&theme=default&show_icons=true)
+<div align="center">
+ 
+ ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FitwebMJ&count_bg=%23762B75&title_bg=%236083F3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)
+ 
+ <div>&nbsp;&nbsp;&nbsp;</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://https://github.com/itwebMJ/itwebMJ)
+![itwebMJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=itwebMJ&theme=default&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itwebMJ&layout=compact)](https://https://github.com/itwebMJ/itwebMJ)
+
 
 </div>
-[Blog][Bloglink]
-[Bloglink]:https://blog.naver.com/rlaalwn61 
 
-<a href="https://github.com/itwebMJ/pythonStudy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itwebMJ&repo=pythonStudy" />
-</a>
-<a href="https://github.com/itwebMJ/pythonStudy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itwebMJ&repo=convoychat" />
-</a>
+<br/>
 
+## Tech Stack
+
+<img src="https://img.shields.io/badge/Python-6083F3?style=for-the-badge&logo=Python&logoColor=white">&nbsp; 
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"/></a>
+
+
+<br/>
+
+
+</br>
+
+## Pins
+<p align="center">
+ <a href="https://github.com/itwebMJ/pythonStudy">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itwebMJ&repo=pythonStudy" />
+ </a>
+ &nbsp; 
+ <a href="https://github.com/itwebMJ/miniProject01">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itwebMJ&repo=miniProject01" />
+ </a>
+</p>
 <!--
 **itwebMJ/itwebMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
