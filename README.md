@@ -21,7 +21,11 @@
 ## Tech Stack
 
 <img src="https://img.shields.io/badge/Python-6083F3?style=for-the-badge&logo=Python&logoColor=white">&nbsp; 
-<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/HTML5-004088?style=for-the-badge&logo=HTML5&logoColor=white">&nbsp; 
+<img src="https://img.shields.io/badge/CSS-F7DF1E?style=for-the-badge&logo=CSS3&logoColor=white">&nbsp; 
+<img src="https://img.shields.io/badge/JavaScript-F43059?style=for-the-badge&logo=JavaScript&logoColor=white">&nbsp; 
+<img src="https://img.shields.io/badge/Flask-00A98F?style=for-the-badge&logo=Flask&logoColor=white">&nbsp; 
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=Java&logoColor=white"/>&nbsp; 
 
 
 <br/>
@@ -31,13 +35,20 @@
 
 ## Pins
 <p align="center">
- <a href="https://github.com/itwebMJ/pythonStudy">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itwebMJ&repo=pythonStudy" />
+ <a href="https://github.com/itwebMJ/web_proj">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itwebMJ&repo=web_proj" />
  </a>
- &nbsp; 
+ &nbsp;
+ <a href="https://github.com/itwebMJ/algorithmStudy">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itwebMJ&repo=algorithmStudy" />
+ </a>
  <a href="https://github.com/itwebMJ/miniProject01">
    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itwebMJ&repo=miniProject01" />
  </a>
+ &nbsp; 
+ <a href="https://github.com/itwebMJ/pythonStudy">
+   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itwebMJ&repo=pythonStudy" />
+ </a> 
 </p>
 <!--
 **itwebMJ/itwebMJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
